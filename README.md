@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Fullstack Developer with a passion for frontend development, including end-user experience, and know the tech to implement it for a great frontend experience. Currently learning react.js for building interactive user interfaces and web applications quickly and efficiently with significantly less code 
+I'm a Fullstack Developer with a passion for frontend development, including end-user experience, and know the tech to implement it for a great frontend experience. Done hands-on projects. Currently learning react.js for building interactive user interfaces and web applications quickly and efficiently with significantly less code 
 
 
 ## 🌐 Socials:
