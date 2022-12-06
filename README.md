@@ -1,5 +1,5 @@
 # 💫 About Me:
-An aspiring Fullstack Developer with a passion for frontend and backend development, including end-user experience, and knowing the tech to implement it for a great frontend experience. Currently learning react.js for building interactive user interfaces and web applications quickly and efficiently with significantly less code. 
+An aspiring Fullstack Developer with a passion for frontend and backend development, including end-user experience, and knowing the tech to implement it for a great user experience. Currently learning react.js for building interactive user interfaces and web applications quickly and efficiently with significantly less code. 
 
 In addition to coding challenges, I enjoy breaking complex problems into smaller parts and solving them. I love doing hands-on projects, and I like listening to music, traveling, singing, being in nature and I'm a pet lover too. Keeping myself productive is something that I enjoy very much. 
 
