@@ -1,7 +1,5 @@
 # About Me ✨
 
-[![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/Training_gif.gif)](www.linkedin.com/in/pramodtoleti)
-
 
 
 <h1 align="center">Hi 👋, I'm Pramod Toleti</h1>
