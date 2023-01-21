@@ -1,6 +1,6 @@
 # About Me ✨
 
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development_2.gif)](https://rishavchanda.io)
+[![MasterHead](https://savageweb.us/wp-content/uploads/2022/04/1.gif)](www.linkedin.com/in/pramodtoleti)
 
 
 
