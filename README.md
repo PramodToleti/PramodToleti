@@ -1,6 +1,6 @@
 # About Me ✨
 
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development_2.gif)](www.linkedin.com/in/pramodtoleti)
+[![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/Training_gif.gif)](www.linkedin.com/in/pramodtoleti)
 
 
 
