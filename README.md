@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Application called NxtTrendz](https://webnxttrendz.ccbp.tech/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Three JS**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS, Node, Express, SQLITE**
 
