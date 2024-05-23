@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/pramod_toleti" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_toleti?logo=twitter&style=for-the-badge" alt="pramod_toleti" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Application called NxtTrendz](https://webnxttrendz.ccbp.tech/)
+- 🔭 I’m currently working on [Fitness App called WellnessZ](https://www.wellnessz.in/)
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **React, Javascript, HTML, CSS, Node, Express, SQLITE**
 
