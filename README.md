@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/pramod_toleti" target="blank"><img src="https://img.shields.io/twitter/follow/pramod_toleti?logo=twitter&style=for-the-badge" alt="pramod_toleti" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness App called WellnessZ](https://www.wellnessz.in/)
+- 🔭 I’m currently working on Med Ecommerce App called Aegle
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **GO Lang**
 
-- 💬 Ask me about **React, Javascript, HTML, CSS, Node, Express, SQLITE**
+- 💬 Ask me about **React, Next JS, Javascript, HTML, CSS, Node, Express, SQLITE**
 
 - 📫 How to reach me **pramodraina047@gmail.com**
 
